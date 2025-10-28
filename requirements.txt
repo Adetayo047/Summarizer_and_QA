@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+ollama
+pandas
+chromadb
+pypdf
+python-docx

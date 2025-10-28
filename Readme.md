@@ -1,4 +1,3 @@
-````markdown
 # Intelligent Document Summarizer & Chatbot
 
 ![Streamlit Interface](image.png)
@@ -83,7 +82,7 @@ streamlit run app.py
 * Ask questions using the chat interface.
 * Conversation history is preserved for multi-turn dialogue.
 
----
+
 
 ## 📂 Project Structure
 
